@@ -44,7 +44,7 @@ PID|<Hasta ID>|<Ad>|<Yaş>|<Şikayet>|<Öncelik>|<Reçete No>
 ```
 Örnek:
 ```
-PID|1|Ali Yilmaz|35|Kalp çarpıntısı|1|1234
+PID|1|Berathan Karaaslan|35|Kalp çarpıntısı|1|1234
 ```
 
 ## Katkıda Bulunma
