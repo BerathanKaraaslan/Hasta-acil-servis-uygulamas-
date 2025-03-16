@@ -55,8 +55,6 @@ Projeye katkıda bulunmak için:
 4. Dalınıza gönderin (`git push origin yeni-ozellik`).
 5. **Pull request** oluşturun.
 
-## Lisans
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
 
  
