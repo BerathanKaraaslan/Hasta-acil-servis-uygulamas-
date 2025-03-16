@@ -1,4 +1,4 @@
-# Acil Servis Hasta Kayıt Sistemi
+ # Acil Servis Hasta Kayıt Sistemi
 
 Bu proje, bir hastanenin acil servisinde hasta kaydı, öncelik sırasına göre muayene süreci ve reçete numarası oluşturma işlemlerini gerçekleştiren bir C programıdır. Hasta bilgileri HL7 formatında saklanmaktadır.
 
